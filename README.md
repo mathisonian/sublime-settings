@@ -37,7 +37,10 @@ through the ST interface
 
 ### TODO
 
-* It would be nice to have a dotfiles-esque bootstrap script.
+* It would be nice to have a dotfiles-esque bootstrap script that:
+    * installs package manager if it is not already installed
+    * installs any packages defined in this repo
+    * transfers all settings files to the correct location
 
 ### License
 
