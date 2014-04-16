@@ -21,7 +21,7 @@ You can edit this file directly, or go through the sublime text preferences pane
 
 ### Packages
 
-* [jshint](https://sublime.wbond.net/packages/JSHint) (javascript linting)
+* [jshint gutter](https://github.com/victorporof/Sublime-JSHint) (javascript linting)
 * [spacegray](https://github.com/kkga/spacegray) (theme)
 * [grunt](https://sublime.wbond.net/packages/Grunt) (run grunt tasks inside of ST)
 * [scss](https://sublime.wbond.net/packages/SCSS) (scss/sass syntax highlighting)
@@ -29,7 +29,11 @@ You can edit this file directly, or go through the sublime text preferences pane
 
 ### Package Settings
 
-TODO
+In this repo my Package settings are stored in the folder [Package Settings](./Package%20Settings). There is one settings file per package. Sublime text stores these files at 
+`~/Library/Application Support/Sublime Text {2,3}/Packages/<Package Name>/<Package Name>.sublime-settings`. Similar to the user settings, you can edit those files directly, or go
+through the ST interface 
+
+![package settings](http://i.imgur.com/gMZjRmQ.png)
 
 ### License
 
