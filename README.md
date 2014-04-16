@@ -35,6 +35,10 @@ through the ST interface
 
 ![package settings](http://i.imgur.com/gMZjRmQ.png)
 
+### TODO
+
+* It would be nice to have a dotfiles-esque bootstrap script.
+
 ### License
 
 This is free and unencumbered software released into the public domain.
