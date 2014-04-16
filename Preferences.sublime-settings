@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+    "remember_open_files": false,
+    "hot_exit": false,
+    "close_windows_when_empty": true,
+    "create_window_at_startup": false
+}
